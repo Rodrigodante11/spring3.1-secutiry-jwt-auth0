@@ -2,7 +2,7 @@
 [![API Sistema de Feed-back CI](https://github.com/Rodrigodante11/feedBackSystem/actions/workflows/maven.yml/badge.svg)](https://github.com/Rodrigodante11/feedBackSystem/actions/workflows/maven.yml)
 
 <h1 aligh="center"> Sistema de Login com spring 3.1.1 com secutiry,JWT e auth0
- <h2>
+<h2>
 <h1 aligh="center"> Persistencia dos dados em PostegreSQL<h2>
 
 <strong>Repositorio do BackEnd SpringBoot</strong> </br>
